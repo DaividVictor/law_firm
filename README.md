@@ -30,6 +30,6 @@ Utilitários
 
 ## 🚧 Layout
 
-Conta com as seguintes seções: **Header**, **Navigation**, **Home**, **Sobre**, **Serviços**, **Depoimentos**, **Contato** e **Footer**. Porém, o projeto ainda não está finalizado.
+O projeto não está finalizado, mas conta com as seguintes seções: **Header**, **Navigation**, **Home**, **Sobre**, **Serviços**, **Depoimentos**, **Contato** e **Footer**. 
 
 Você pode visualizar o projeto através [desse link](https://daividvictor.github.io/law_firm/).
