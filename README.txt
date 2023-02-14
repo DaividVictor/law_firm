@@ -1,1 +1,0 @@
-Trata-se de um site de estudo Front-End para um Escritório de Advocacia fictício baseado na série Suits.
